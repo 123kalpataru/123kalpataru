@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalpataru Mallick</h1>
-<h3 align="center">Aspiring Full Stack Developer | B.Tech CSE Graduate</h3>
+<h3 align="center">Aspiring Full Java Stack Developer | B.Tech CSE Graduate</h3>
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, DSA**
 - 👨‍💻 Explore my projects: [GitHub Profile](https://github.com/123kalpataru)
